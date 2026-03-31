@@ -27,21 +27,25 @@ and shows the results.
 
 - It is a basic logic-based system, which makes it easy to understand for beginners. 
 ## Technologies Used: - 
-This project is made using Python. It uses basic programming concepts like 
-dictionaries, conditions, and user input. 
+This project is made using Python. 
+
+It uses basic programming concepts like dictionaries, conditions, and user input. 
 ## How to Run: - 
-To run this project, you need to have Python installed on your system. Open 
-the file in any Python editor and run it.
+To run this project, you need to have Python installed on your system.
+
+Open the file in any Python editor and run it.
+
 After running, enter your choices when the program asks, and it will show recommendations. 
 ## What I Learned: - 
 From this project, I learned how recommendation systems work at a basic 
 level.
 I also learned how to use dictionaries in Python and how to take input from users and display output. 
 ## Future Improvements: - 
-In the future, this project can be improved by adding more data and better 
-recommendations. It can also include user ratings and connect with real 
-platforms like YouTube or Spotify. Machine learning can also be added to 
-make it smarter. 
+- In the future, this project can be improved by adding more data and better recommendations. 
+
+- It can also include user ratings and connect with real platforms like YouTube or Spotify.
+
+- Machine learning can also be added to make it smarter. 
 ## conclution - 
 This is a simple project made for learning purposes. It is not a complete or 
 advanced recommendation system.
